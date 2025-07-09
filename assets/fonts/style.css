@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Heebo-Bold';
+   font-display: swap;
+   src: url('Heebo-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Heebo-Medium';
+   font-display: swap;
+   src: url('Heebo-Medium/font.ttf');
+}
