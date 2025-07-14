@@ -3216,7 +3216,7 @@ a {
   margin-bottom: 2.5rem;
 }
 .cid-uQwSYfjYR1 .mbr-section-title {
-  color: #000000;
+  color: #7f1924;
 }
 .cid-uQwSYfjYR1 .mbr-section-subtitle {
   color: #000000;
@@ -4880,7 +4880,7 @@ a {
   color: #ffffff;
 }
 .cid-uQwWU4NvsX .mbr-text {
-  color: #851523;
+  color: #ffffff;
   text-align: center;
 }
 .cid-uQwWU4NvsX .mbr-section-title,
@@ -6342,15 +6342,15 @@ a {
   flex-direction: row;
   margin-right: 1.5rem;
 }
-.cid-uQUaSdZKO8 {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
+.cid-uQXr0s5bcH {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
   background-image: url("../../../assets/images/whatsapp-2025-07-14-23.05.37-6fbe5af5.jpg-1600x872.jpg");
 }
-.cid-uQUaSdZKO8 .mbr-fallback-image.disabled {
+.cid-uQXr0s5bcH .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uQUaSdZKO8 .mbr-fallback-image {
+.cid-uQXr0s5bcH .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6359,52 +6359,53 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uQUaSdZKO8 .container-fluid {
+.cid-uQXr0s5bcH .container-fluid {
   padding: 0 45px;
 }
 @media (max-width: 992px) {
-  .cid-uQUaSdZKO8 .container-fluid {
+  .cid-uQXr0s5bcH .container-fluid {
     padding: 0 20px;
   }
 }
 @media (max-width: 992px) {
-  .cid-uQUaSdZKO8 {
+  .cid-uQXr0s5bcH {
     padding-top: 0rem;
     padding-bottom: 0rem;
   }
-  .cid-uQUaSdZKO8 .container {
+  .cid-uQXr0s5bcH .container {
     padding: 0 25px;
   }
 }
-.cid-uQUaSdZKO8 .title-wrapper {
+.cid-uQXr0s5bcH .title-wrapper {
   padding: 0 15%;
 }
 @media (max-width: 992px) {
-  .cid-uQUaSdZKO8 .title-wrapper {
+  .cid-uQXr0s5bcH .title-wrapper {
     padding: 0;
     padding-top: 0rem;
     padding-bottom: 0rem;
   }
 }
-.cid-uQUaSdZKO8 .title-wrapper .mbr-section-title {
+.cid-uQXr0s5bcH .title-wrapper .mbr-section-title {
   margin-bottom: 50px;
 }
-.cid-uQUaSdZKO8 .title-wrapper .mbr-text {
+.cid-uQXr0s5bcH .title-wrapper .mbr-text {
   margin-bottom: 50px;
 }
-.cid-uQUaSdZKO8 .mbr-section-title {
+.cid-uQXr0s5bcH .mbr-section-title {
   color: #ffffff;
 }
-.cid-uQUaSdZKO8 .mbr-text {
+.cid-uQXr0s5bcH .mbr-text {
   color: #ffffff;
   text-align: center;
 }
-.cid-uQUaSdZKO8 .mbr-section-title,
-.cid-uQUaSdZKO8 .mbr-section-btn {
+.cid-uQXr0s5bcH .mbr-section-title,
+.cid-uQXr0s5bcH .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
 }
 @media (max-width: 767px) {
-  .cid-uQUaSdZKO8 {
+  .cid-uQXr0s5bcH {
     padding-top: 6rem;
     padding-bottom: 0rem;
   }
