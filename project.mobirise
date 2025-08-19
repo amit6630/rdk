@@ -89,7 +89,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "ljwjzyfthu",
+    "mbrsiteDomain": "ujomrqxujp",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -104,7 +104,7 @@
       "currency": "USD"
     },
     "global_footer_custom": "<script src=\"https://cdn.enable.co.il/licenses/enable-L46141b65qh9rmfi-0725-72348/init.js\"></script>",
-    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-LXNP6Y1510\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-LXNP6Y1510');\n</script>"
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BNVZGT0VKE\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BNVZGT0VKE');\n</script>"
   },
   "pages": {
     "index.html": {
