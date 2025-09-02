@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rdk פרויקטים",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -89,7 +89,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "z75hshreec",
+    "mbrsiteDomain": "mfheceei0g",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -128,7 +128,8 @@
         "meta_descr": "היט סיסטם מציעה פתרונות חימום מתקדמים ומותאמים אישית לבריכות, מקוואות ורצפות – עם שירות מקצועי, ניסיון מוכח ומערכות חכמות שחוסכות בהוצאות. צרו קשר לייעוץ חינם!\nברוכים הבאים להיט סיסטם – החברה שמתמחה בתכנון, אספקה והתקנה של מערכות חימום מתקדמות בהתאמה מושלמת לצרכי הלקוח. אנו מספקים שירות מקיף לחימום בריכות שחייה פרטיות וציבוריות, מקוואות, ורצפות – באמצעות משאבות חום, קולטי שמש וטכנולוגיות ירוקות מתקדמות. השירות שלנו כולל ליווי מקצועי, ייעוץ הנדסי, אחריות מלאה ועמידה בתקנים. איתנו תהיו בטוחים שהחום יגיע בדיוק למקום הנכון.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/-whatsapp-2025-07-12-21.41.44-4d9a565e-322x258.jpg"
       },
       "components": [
         {
